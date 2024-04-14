@@ -48,7 +48,7 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>0.0</z>
+	<z>-9.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
@@ -130,7 +130,7 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>0.0</z>
+	<z>-9.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
@@ -147,10 +147,10 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>1.0</rotw>
+	<rotw>0.9914448613738104</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
+	<rotz>-0.13052619222005157</rotz>
 			</pose>
 			<frame>origin</frame>
 		</vitamin>
@@ -212,7 +212,7 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>0.0</z>
+	<z>-9.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
@@ -294,7 +294,7 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>0.0</z>
+	<z>-9.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
