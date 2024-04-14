@@ -147,10 +147,10 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.9914448613738104</rotw>
+	<rotw>6.123233995736766E-17</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
-	<rotz>-0.13052619222005157</rotz>
+	<rotz>-1.0</rotz>
 			</pose>
 			<frame>origin</frame>
 		</vitamin>
