@@ -295,10 +295,10 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>-9.0</z>
-	<rotw>1.0</rotw>
+	<rotw>0.7071067811865476</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
+	<rotz>-0.7071067811865475</rotz>
 			</pose>
 			<frame>lastlink</frame>
 		</vitamin>
@@ -317,6 +317,22 @@
 	<rotz>-0.7071067811865475</rotz>
 			</pose>
 			<frame>origin</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>bolt</name>
+			<type>chamferedScrew</type>
+			<id>M3x16</id>
+			<pose>
+	<x>24.0</x>
+	<y>0.0</y>
+	<z>15.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
 		</vitamin>
 
 	</vitamins>
