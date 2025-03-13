@@ -48,13 +48,14 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>-9.0</z>
+	<z>0.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -71,6 +72,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -130,13 +132,14 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>-9.0</z>
+	<z>0.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -147,12 +150,13 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>6.123233995736766E-17</rotw>
+	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
-	<rotz>-1.0</rotz>
+	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -212,13 +216,14 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>-9.0</z>
+	<z>0.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -235,6 +240,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -294,13 +300,14 @@
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
-	<z>-9.0</z>
-	<rotw>0.7071067811865476</rotw>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
-	<rotz>-0.7071067811865475</rotz>
+	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -311,28 +318,13 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.7071067811865476</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.7071067811865475</rotz>
-			</pose>
-			<frame>origin</frame>
-		</vitamin>
-
-		<vitamin>
-			<name>bolt</name>
-			<type>chamferedScrew</type>
-			<id>M3x16</id>
-			<pose>
-	<x>24.0</x>
-	<y>0.0</y>
-	<z>15.0</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
-			<frame>default</frame>
+			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -383,10 +375,10 @@
 	<x>-75.00000000000001</x>
 	<y>-23.069999999999993</y>
 	<z>38.0952380952381</z>
-	<rotw>8.726646248878822E-5</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>0.9999999961922823</rotz>
+	<rotw>0.05455892332782112</rotw>
+	<rotx>0.017903047010183144</rotx>
+	<roty>0.0077571528961058725</roty>
+	<rotz>0.9983199043252653</rotz>
 
 </baseToZframe>
 
@@ -436,6 +428,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -452,6 +445,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -518,6 +512,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -534,6 +529,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -637,6 +633,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -653,6 +650,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -739,6 +737,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -755,6 +754,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -900,6 +900,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -916,6 +917,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -982,6 +984,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -998,6 +1001,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1101,6 +1105,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1117,6 +1122,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1203,6 +1209,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1219,6 +1226,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1364,6 +1372,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1380,6 +1389,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1446,6 +1456,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1462,6 +1473,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1565,6 +1577,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1581,6 +1594,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1647,6 +1661,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1663,6 +1678,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1745,7 +1761,7 @@
 	<rotz>-0.0</rotz>
 
 </baseToZframe>
-	<mass>0.1</mass>
+	<mass>0.01</mass>
 	<centerOfMassFromCentroid>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -1766,38 +1782,6 @@
 </imuFromCentroid>
 
 	<vitamins>
-
-		<vitamin>
-			<name>test</name>
-			<type>BatteryBox</type>
-			<id>9vbattery</id>
-			<pose>
-	<x>0.0</x>
-	<y>-2.0</y>
-	<z>40.0</z>
-	<rotw>0.7071067811865476</rotw>
-	<rotx>4.101120372478706E-34</rotx>
-	<roty>4.101120372478704E-34</roty>
-	<rotz>0.7071067811865475</rotz>
-			</pose>
-			<frame>default</frame>
-		</vitamin>
-
-		<vitamin>
-			<name>bolt</name>
-			<type>chamferedScrew</type>
-			<id>M3x16</id>
-			<pose>
-	<x>28.0</x>
-	<y>39.0</y>
-	<z>29.0</z>
-	<rotw>0.7010573846499778</rotw>
-	<rotx>0.7010573846499781</rotx>
-	<roty>0.0922959556412572</roty>
-	<rotz>-0.0922959556412573</rotz>
-			</pose>
-			<frame>default</frame>
-		</vitamin>
 
 	</vitamins>
 
